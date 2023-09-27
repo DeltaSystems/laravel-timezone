@@ -1,5 +1,5 @@
 {
-    "name": "deltasystems/laravel-timezone",
+    "name": "elevatodigital/laravel-timezone",
     "license": "MIT",
     "description": "Timezone storage and retrieval for Laravel",
     "keywords": [
